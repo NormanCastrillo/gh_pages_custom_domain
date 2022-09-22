@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www.testghpages.ga/static/css/main.073c9b0a.css",
-    "main.js": "/www.testghpages.ga/static/js/main.d527b7f5.js",
-    "static/js/787.dd8d860f.chunk.js": "/www.testghpages.ga/static/js/787.dd8d860f.chunk.js",
-    "static/media/logo.svg": "/www.testghpages.ga/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/www.testghpages.ga/index.html",
-    "main.073c9b0a.css.map": "/www.testghpages.ga/static/css/main.073c9b0a.css.map",
-    "main.d527b7f5.js.map": "/www.testghpages.ga/static/js/main.d527b7f5.js.map",
-    "787.dd8d860f.chunk.js.map": "/www.testghpages.ga/static/js/787.dd8d860f.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.32165abb.js",
+    "static/js/787.dd8d860f.chunk.js": "/static/js/787.dd8d860f.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.32165abb.js.map": "/static/js/main.32165abb.js.map",
+    "787.dd8d860f.chunk.js.map": "/static/js/787.dd8d860f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d527b7f5.js"
+    "static/js/main.32165abb.js"
   ]
 }
